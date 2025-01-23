@@ -5,32 +5,31 @@ Overview <br>
 
 In this project, I explore the powerful capabilities of Python and its external libraries to perform data analysis. The goal is to provide hands-on examples and code snippets that demonstrate how to handle, process, and visualize data effectively.<br>
 ## Libraries Used
-
-    * Numpy: For numerical operations, array manipulation, and mathematical functions.
-    * Pandas: For data manipulation and analysis, especially for working with data frames.
-    * Matplotlib: For creating static, animated, and interactive visualizations.
-    * Seaborn: For making statistical graphics and enhancing the visual appeal of data plots.
+* Numpy: For numerical operations, array manipulation, and mathematical functions.
+* Pandas: For data manipulation and analysis, especially for working with data frames.
+* Matplotlib: For creating static, animated, and interactive visualizations.
+* Seaborn: For making statistical graphics and enhancing the visual appeal of data plots.
 
 ## Project Structure
 
-Data-Analysis-with-Python/
-│
-├── numpy/                 # Directory for Numpy-related code and examples
-│   └── numpy.ipynb 
-│
-├── pandas/                # Directory for Pandas-related code and examples
-│   └── pandas.ipynb    
-│
-├── matplotlib/            # Directory for Matplotlib-related code and visualizations
-│   └── matplotlib.ipynb      
-│
-├── seaborn/               # Directory for Seaborn-related visualizations
-│   └── seaborn.ipynb
-│
-├── data/                  # Folder for storing datasets
-│   └── dataset.csv        # Example dataset
-│
-└── README.md             # This readme file
+Data-Analysis-with-Python/ <br>
+│ <br>
+├── numpy/                 # Directory for Numpy-related code and examples <br>
+│   └── numpy.ipynb  <br>
+│ <br>
+├── pandas/                # Directory for Pandas-related code and examples <br>
+│   └── pandas.ipynb     <br>
+│ <br>
+├── matplotlib/            # Directory for Matplotlib-related code and visualizations <br>
+│   └── matplotlib.ipynb       <br>
+│ <br>
+├── seaborn/               # Directory for Seaborn-related visualizations <br>
+│   └── seaborn.ipynb <br>
+│ <br>
+├── data/                  # Folder for storing datasets <br>
+│   └── dataset.csv        # Example dataset <br>
+│ <br>
+└── README.md             # This readme file <br>
 
 
 ## Getting Started
