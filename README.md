@@ -1,2 +1,58 @@
 # Data-Analysis-with-Python
-This is my journey of Data Analysis with Python external libraries (like Numpy, Pandas, Matplotlib, Seaborn) .
+
+Welcome to my journey of Data Analysis with Python! This repository showcases various data analysis tasks using popular Python libraries such as Numpy, Pandas, Matplotlib, and Seaborn. The project is constantly being updated as I continue to explore new techniques and applications.
+Overview <br>
+
+In this project, I explore the powerful capabilities of Python and its external libraries to perform data analysis. The goal is to provide hands-on examples and code snippets that demonstrate how to handle, process, and visualize data effectively.<br>
+## Libraries Used
+
+    * Numpy: For numerical operations, array manipulation, and mathematical functions.
+    * Pandas: For data manipulation and analysis, especially for working with data frames.
+    * Matplotlib: For creating static, animated, and interactive visualizations.
+    * Seaborn: For making statistical graphics and enhancing the visual appeal of data plots.
+
+## Project Structure
+
+Data-Analysis-with-Python/
+│
+├── numpy/                 # Directory for Numpy-related code and examples
+│   └── numpy.ipynb 
+│
+├── pandas/                # Directory for Pandas-related code and examples
+│   └── pandas.ipynb    
+│
+├── matplotlib/            # Directory for Matplotlib-related code and visualizations
+│   └── matplotlib.ipynb      
+│
+├── seaborn/               # Directory for Seaborn-related visualizations
+│   └── seaborn.ipynb
+│
+├── data/                  # Folder for storing datasets
+│   └── dataset.csv        # Example dataset
+│
+└── README.md             # This readme file
+
+
+## Getting Started
+
+To get started with this project, you can clone the repository and install the necessary dependencies.
+Clone the Repository
+
+git clone https://github.com/Ishan-Shrestha/Data-Analysis-with-Python.git
+
+## Install Dependencies
+
+You can install the required libraries using pip.
+
+pip install -r library
+
+The library contains:
+
+1. numpy
+2. pandas
+3. matplotlib
+4. seaborn
+
+## Project Updates
+
+This project is a work in progress and will continue to be updated as I learn more about data analysis and explore new techniques. Keep an eye out for new examples and additions to the directories!
